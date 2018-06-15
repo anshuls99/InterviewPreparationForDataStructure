@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "584409752978",
+    "firebase_url": "https://interview-preparation-dda2d.firebaseio.com",
+    "project_id": "interview-preparation-dda2d",
+    "storage_bucket": "interview-preparation-dda2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584409752978:android:53bd4c07ab1eb357",
+        "android_client_info": {
+          "package_name": "com.example.anshulsharma.interviewpreparation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584409752978-j79m4fb0g510h7qn536ekkvat8efdi5c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "584409752978-j79m4fb0g510h7qn536ekkvat8efdi5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWsjEfVNbkspeobT8aAnG-BHjOVw_08eU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
